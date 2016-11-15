@@ -1,35 +1,12 @@
-body {
-  padding-top: 50px;
+header {
+	background: url('http://i.imgur.com/SQ2SIL0.jpg');
+	background-size: cover;
+	background-blend-mode: 
 }
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
-}
-
-.jumbotron {
-
-background-image: url("http://i.imgur.com/uYNjSzk.jpg");
-padding-top: 40px;
-padding-bottom: 40px;
-position: relative;
-content: '';
-z-index: -1;
-width: 100%;
-height: 100%;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
--webkit-filter: blur(5px);
--moz-filter: blur(5px);
--o-filter: blur(5px);
--ms-filter: blur(5px);
-filter: blur(5px);
-}
-
-.starter-template {
-		min-height: 600px;
-		font-size: 16px;
+header h1 {
+	padding: 150px;
+	color: white;
+	size: 30px;
 }
 
 .img-responsive {
