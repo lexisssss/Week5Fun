@@ -9,6 +9,8 @@ header h1 {
 	size: 30px;
 }
 
+
+
 .img-responsive {
 	max-width: 50%; /* or to whatever you want here */
 	max-height: auto; /* or to whatever you want here */
