@@ -13,3 +13,23 @@ header h1 {
 	max-width: 50%; /* or to whatever you want here */
 	max-height: auto; /* or to whatever you want here */
 }
+
+#social-buttons {
+	padding:30px;
+}
+
+#social-buttons button {
+	color: white;
+}
+
+.btn-twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+}
+.btn-facebook { 
+	background-color: #4868ac; border-color: #314776;
+}
+.btn-pinterest {
+	background-color: #b62f26;
+	border-color: #b62f26;
+}
