@@ -14,8 +14,15 @@ header h1 {
 	max-height: auto; /* or to whatever you want here */
 }
 
+#ContactUs {
+	padding: 30px;
+	background-color: black;
+	font-size: 18px;
+	color: white;
+}
+
 #social-buttons {
-	padding:30px;
+	padding-top: 30px;
 }
 
 #social-buttons button {
