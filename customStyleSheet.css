@@ -4,11 +4,11 @@ header {
 	background-blend-mode: 
 }
 header h1 {
-	padding: 150px;
-	color: white;
+	padding: 100px;
+	color: rgb(990);
+	text-align: center;
 	size: 30px;
 }
-
 
 
 .img-responsive {
