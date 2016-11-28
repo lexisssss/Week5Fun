@@ -66,3 +66,8 @@ body p {
 .google_form {
 	padding-top: 60px;
 }
+
+.timeline {
+	max-width: 100%; /* or to whatever you want here */
+	max-height: auto; /* or to whatever you want here */
+}
