@@ -1,16 +1,23 @@
-@import url('https://fonts.googleapis.com/css?family=Quintessential|Tangerine');
+@import url('https://fonts.googleapis.com/css?family=Mate+SC');
 
 header {
 	background: url('http://i.imgur.com/SQ2SIL0.jpg');
 	background-size: cover;
-	background-blend-mode:
-	font-family: 'Tangerine', cursive; 
+	background-blend-mode: 
 }
 header h1 {
 	padding: 100px;
 	color: rgb(990);
 	text-align: center;
-	size: 30px;
+	size: 60px;
+}
+
+body {
+		font-family: 'Mate SC', serif;
+}
+
+body p {
+	font-size: 20px;
 }
 
 #navbar {
