@@ -10,6 +10,9 @@ header h1 {
 	size: 30px;
 }
 
+#navbar {
+	padding-right:15px;
+}
 
 .img-responsive {
 	max-width: 50%; /* or to whatever you want here */
