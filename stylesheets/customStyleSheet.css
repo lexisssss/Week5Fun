@@ -20,6 +20,8 @@ body p {
 	font-size: 20px;
 }
 
+
+
 #navbar {
 	padding-right:15px;
 }
@@ -54,4 +56,12 @@ body p {
 .btn-pinterest {
 	background-color: #b62f26;
 	border-color: #b62f26;
+}
+
+.mission {
+	text-align: justify;
+}
+
+.google_form {
+	padding-top: 60px;
 }
