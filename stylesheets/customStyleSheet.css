@@ -13,6 +13,13 @@ header h1 {
 	size: 30px;
 }
 
+<<<<<<< HEAD:stylesheets/customStyleSheet.css
+=======
+#navbar {
+	padding-right:15px;
+}
+
+>>>>>>> origin/master:customStyleSheet.css
 .img-responsive {
 	max-width: 50%; /* or to whatever you want here */
 	max-height: auto; /* or to whatever you want here */
