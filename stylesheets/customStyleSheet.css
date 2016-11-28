@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Quintessential|Tangerine');
+
 header {
 	background: url('http://i.imgur.com/SQ2SIL0.jpg');
 	background-size: cover;
-	background-blend-mode: 
+	background-blend-mode:
+	font-family: 'Tangerine', cursive; 
 }
 header h1 {
 	padding: 100px;
@@ -9,7 +12,6 @@ header h1 {
 	text-align: center;
 	size: 30px;
 }
-
 
 .img-responsive {
 	max-width: 50%; /* or to whatever you want here */
