@@ -71,3 +71,9 @@ body p {
 	max-width: 100%; /* or to whatever you want here */
 	max-height: auto; /* or to whatever you want here */
 }
+
+.start {
+	background-color: rgb(250, 50,50);
+	color: white;
+	font-family: 'Mate SC', serif;
+}
