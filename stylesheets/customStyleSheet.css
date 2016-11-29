@@ -70,7 +70,14 @@ body p {
 .timeline {
 	display: block;
 	margin: auto;
-	width: 100%;
+	width: 40%;
+	vertical-align: middle;
+}
+
+.timeline-pic {
+	max-width: 100%;
+	max-height: auto;
+	margin: auto;
 }
 
 .start {
@@ -83,4 +90,13 @@ body p {
 	padding: 50px;
 	vertical-align: middle;
 	text-align: center;
+	margin: auto;
+}
+
+.div {
+	padding:10px;
+}
+
+#mission h2 {
+	padding-bottom: 20px;
 }
