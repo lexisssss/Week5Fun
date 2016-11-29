@@ -68,12 +68,19 @@ body p {
 }
 
 .timeline {
-	max-width: 100%; /* or to whatever you want here */
-	max-height: auto; /* or to whatever you want here */
+	display: block;
+	margin: auto;
+	width: 100%;
 }
 
 .start {
 	background-color: rgb(250, 50,50);
 	color: white;
 	font-family: 'Mate SC', serif;
+}
+
+.description {
+	padding: 50px;
+	vertical-align: middle;
+	text-align: center;
 }
